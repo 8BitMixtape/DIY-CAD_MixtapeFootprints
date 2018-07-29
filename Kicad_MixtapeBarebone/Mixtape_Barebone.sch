@@ -614,4 +614,9 @@ Wire Wire Line
 	5200 4100 5200 3950
 Wire Wire Line
 	5200 3950 5250 3950
+Text GLabel 3900 4150 3    60   Input ~ 0
+Prog
+Wire Wire Line
+	3900 4150 3900 3950
+Connection ~ 3900 3950
 $EndSCHEMATC
